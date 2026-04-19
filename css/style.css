@@ -230,16 +230,13 @@ audio {
   border-radius: 10px;
   top: 120px;
   right: 42px;
-  transform: rotate(155deg);
+  transform: rotate(122deg);
   transform-origin: 92% 50%;
   z-index: 6;
   box-shadow: 0 2px 8px rgba(0,0,0,0.18);
-  transition: transform 0.8s ease;
 }
 
-.turntable.playing .tonearm {
-  transform: rotate(122deg);
-}
+
 
 /* Tornillos decorativos */
 .turntable::before,
